@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    width: 90vw;
+    text-shadow:-2px 4px 8px black;
+    color: #000000;
+    font-size: 50px;
+}
+:root{
+
+--cor1:#9FA3A6;
+--cor2: #666A73;
+--cor3: #D7D7D9;
+--cor4: #666A73;
+--cor5: #9FA3A6;
+}
+
+span{
+    font-weight: bold;
+}
+
+mark{
+    background-color: #c0021298;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+body{
+    background-image: linear-gradient(78deg, var(--cor1), var(--cor2), var(--cor3), var(--cor4), var(--cor5));
+}
