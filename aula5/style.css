@@ -1,0 +1,42 @@
+
+.titulo{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-shadow: -5px 3px 4px black;
+}
+
+
+:root{
+    --cor1: #ffffff;
+    --cor2: #c4c2c0;
+    --cor3 : #F2F2F2;
+    --cor4: #636362;
+}
+
+body{
+    background-image: linear-gradient(150deg, var(--cor1), var(--cor2), var(--cor3), var(--cor4));
+}
+
+
+
+.subtitulo{
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.linkk{
+    color: black;
+    
+}
+
+span{
+    font-size: larger;
+}
+
+.para{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
