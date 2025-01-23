@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+}
+
+body{
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    padding: 10px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+main{
+    margin: auto;
+    width: 70%;
+    border: solid black 1px;
+    padding: 10px;
+    border-radius: 30px;
+    height: 35%;
+    box-shadow: black 5px 5px 5px;
+    
+}
+
+table{
+    margin: auto;
+    padding: 20px;
+    width: 100%;
+}
+
+th,td{
+    border: solid #09a4e2a9 2px;
+    padding: 10px;
+    text-align: center;
+}
+
+th{
+    text-decoration: underline;
+   background-color:#09a4e2a9
+}
+
+.dollar{
+    
+}
+
+:root{
+    --cor1: #a3a3a3be;
+    --cor2:#c9c7c79d;
+    --cor3: #7e7e7e;
+ 
+}
+
+html{
+    height: 150%;
+}
+
+body{
+    background-image: linear-gradient(196deg, var(--cor1), var(--cor2), var(--cor3));
+}
+
+
+.borda{
+    margin: auto;
+    width: 60%;
+    border: solid black 1px;
+    padding: 10px;
+    border-radius: 20px;
+    height: 75%;
+    box-shadow: black 5px 5px 5px;
+}
+
+.separar{
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 20px ;
+    
+   
+}
+
+label{
+    text-decoration: underline;
+}
+
+legend{
+    font-style: italic;
+    font-weight: bold;
+}
