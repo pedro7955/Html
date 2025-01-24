@@ -1,0 +1,28 @@
+
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+
+
+
+.quadrado{
+    border: solid black 1px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  white;
+    text-shadow: 5px 5px 5px black;
+    text-decoration: underline;
+    font-style: italic;
+    margin-top: 24px;
+ 
+}
