@@ -1,0 +1,12 @@
+
+
+
+BODY{ 
+    background-image: url(./IMG/mundo.jpg); 
+    height: 100px;
+    
+}
+
+li{
+    list-style: none;
+}
